@@ -1,0 +1,14 @@
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.csprojAssemblyReference.cache
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.AssemblyInfoInputs.cache
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.AssemblyInfo.cs
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Services.deps.json
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Services.dll
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Services.pdb
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Data.dll
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.UseCaces.dll
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.UseCaces.pdb
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Data.pdb
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.csproj.CopyComplete
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.dll
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.pdb

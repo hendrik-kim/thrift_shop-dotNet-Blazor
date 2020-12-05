@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3gyf7+JgTtEpqU8xolIXgF0soSHoeZD7HXAIKg08N9QCNunWHDNNyk5QKR/S8tdu5xVw4Vmsbay8RHfOOzSjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hank\\Desktop\\project\\thrift-shop\\ThriftShop.UseCaces\\ThriftShop.UseCaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hank\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hank\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

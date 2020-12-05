@@ -1,0 +1,12 @@
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\obj\Debug\netstandard2.0\ThriftShop.UseCaces.csprojAssemblyReference.cache
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\obj\Debug\netstandard2.0\ThriftShop.UseCaces.csproj.CoreCompileInputs.cache
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\obj\Debug\netstandard2.0\ThriftShop.UseCaces.AssemblyInfoInputs.cache
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\obj\Debug\netstandard2.0\ThriftShop.UseCaces.AssemblyInfo.cs
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\bin\Debug\netstandard2.0\ThriftShop.UseCaces.deps.json
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\bin\Debug\netstandard2.0\ThriftShop.UseCaces.dll
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\bin\Debug\netstandard2.0\ThriftShop.UseCaces.pdb
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\bin\Debug\netstandard2.0\ThriftShop.Data.dll
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\bin\Debug\netstandard2.0\ThriftShop.Data.pdb
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\obj\Debug\netstandard2.0\ThriftShop.UseCaces.csproj.CopyComplete
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\obj\Debug\netstandard2.0\ThriftShop.UseCaces.dll
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.UseCaces\obj\Debug\netstandard2.0\ThriftShop.UseCaces.pdb

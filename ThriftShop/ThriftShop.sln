@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThriftShop.Data", "..\Thrif
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThriftShop.Services", "..\ThriftShop.Services\ThriftShop.Services.csproj", "{9F579035-1085-4302-83DB-24201265FA1C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThriftShop.UseCaces", "..\ThriftShop.UseCaces\ThriftShop.UseCaces.csproj", "{D98C3342-597D-43FE-8D81-7F3AFB50824E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{9F579035-1085-4302-83DB-24201265FA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F579035-1085-4302-83DB-24201265FA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F579035-1085-4302-83DB-24201265FA1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D98C3342-597D-43FE-8D81-7F3AFB50824E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D98C3342-597D-43FE-8D81-7F3AFB50824E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D98C3342-597D-43FE-8D81-7F3AFB50824E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D98C3342-597D-43FE-8D81-7F3AFB50824E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

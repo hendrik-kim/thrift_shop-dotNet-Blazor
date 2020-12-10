@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ThriftShop.Services\ThriftShop.Services.csproj" />
-    <ProjectReference Include="..\ThriftShop.UseCaces\ThriftShop.UseCaces.csproj" />
   </ItemGroup>
 
 </Project>

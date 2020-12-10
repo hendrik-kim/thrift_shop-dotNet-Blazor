@@ -1,0 +1,34 @@
+﻿@page "/products"
+@inject ISearchProduct searchProduct
+
+<h3>Search Products</h3> 
+<br />
+
+<SearchBar OnSearch="HandleSearch"/>
+
+<br/>
+
+<ul>
+    @foreach(var p in products)
+    {
+        <li>@p.Name</li>
+        <li>@p.Brand</li>
+        <li>@p.Price</li>
+    }
+</ul>
+
+@code { 
+    private IEnumerable<Product> products;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        products = searchProduct.Execute("");
+    }
+
+    private void HandleSearch(string filter)
+    {
+
+    }
+}

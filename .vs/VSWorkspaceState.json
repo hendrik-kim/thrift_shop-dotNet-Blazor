@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\frontend"
+    "\\ThriftShop",
+    "\\ThriftShop.Models"
   ],
+  "SelectedNode": "\\ThriftShop\\ThriftShop.sln",
   "PreviewInSolutionExplorer": false
 }

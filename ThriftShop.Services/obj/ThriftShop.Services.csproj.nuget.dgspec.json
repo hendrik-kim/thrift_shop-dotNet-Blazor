@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj": {}
+    "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj": {
+    "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
         "projectName": "ThriftShop.Services",
-        "projectPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
+        "projectPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
         "packagesPath": "C:\\Users\\Hank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\obj\\",
+        "outputPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj": {}
+    "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj": {
+    "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj",
         "projectName": "ThriftShop.Data",
-        "projectPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj",
+        "projectPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj",
         "packagesPath": "C:\\Users\\Hank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\obj\\",
+        "outputPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

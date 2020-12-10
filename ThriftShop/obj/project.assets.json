@@ -679,11 +679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop\\ThriftShop.csproj",
+      "projectUniqueName": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop\\ThriftShop.csproj",
       "projectName": "ThriftShop",
-      "projectPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop\\ThriftShop.csproj",
+      "projectPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop\\ThriftShop.csproj",
       "packagesPath": "C:\\Users\\Hank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop\\obj\\",
+      "outputPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -704,8 +704,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj": {
-              "projectPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj"
+            "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj": {
+              "projectPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj"
             }
           }
         }

@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ThriftShop.Models\ThriftShop.Data.csproj" />
     <ProjectReference Include="..\ThriftShop.Services\ThriftShop.Services.csproj" />
   </ItemGroup>
 

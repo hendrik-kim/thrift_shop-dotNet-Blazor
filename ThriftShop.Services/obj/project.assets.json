@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "ThriftShop.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ThriftShop.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ThriftShop.Data.dll": {}
+        }
       }
     }
   },
@@ -172,11 +182,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "ThriftShop.Data/1.0.0": {
+      "type": "project",
+      "path": "../ThriftShop.Models/ThriftShop.Data.csproj",
+      "msbuildProject": "../ThriftShop.Models/ThriftShop.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "ThriftShop.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -187,11 +203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
       "projectName": "ThriftShop.Services",
-      "projectPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
+      "projectPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
       "packagesPath": "C:\\Users\\Hank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\obj\\",
+      "outputPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -211,7 +227,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj": {
+              "projectPath": "C:\\Users\\Hank\\Source\\Repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Models\\ThriftShop.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

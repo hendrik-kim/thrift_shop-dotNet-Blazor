@@ -7,3 +7,11 @@ C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Models\obj\Debug\netstandar
 C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Models\obj\Debug\netstandard2.0\ThriftShop.Data.AssemblyInfo.cs
 C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Models\obj\Debug\netstandard2.0\ThriftShop.Data.dll
 C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop.Models\obj\Debug\netstandard2.0\ThriftShop.Data.pdb
+C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Models\bin\Debug\netstandard2.0\ThriftShop.Data.deps.json
+C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Models\bin\Debug\netstandard2.0\ThriftShop.Data.dll
+C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Models\bin\Debug\netstandard2.0\ThriftShop.Data.pdb
+C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Models\obj\Debug\netstandard2.0\ThriftShop.Data.csprojAssemblyReference.cache
+C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Models\obj\Debug\netstandard2.0\ThriftShop.Data.AssemblyInfoInputs.cache
+C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Models\obj\Debug\netstandard2.0\ThriftShop.Data.AssemblyInfo.cs
+C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Models\obj\Debug\netstandard2.0\ThriftShop.Data.dll
+C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Models\obj\Debug\netstandard2.0\ThriftShop.Data.pdb

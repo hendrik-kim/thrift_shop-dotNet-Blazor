@@ -10,7 +10,7 @@
       "ThriftShop.Services/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "ThriftShop.UseCaces": "1.0.0"
+          "ThriftShop.Data": "1.0.0"
         },
         "runtime": {
           "ThriftShop.Services.dll": {}
@@ -25,14 +25,6 @@
       "ThriftShop.Data/1.0.0": {
         "runtime": {
           "ThriftShop.Data.dll": {}
-        }
-      },
-      "ThriftShop.UseCaces/1.0.0": {
-        "dependencies": {
-          "ThriftShop.Data": "1.0.0"
-        },
-        "runtime": {
-          "ThriftShop.UseCaces.dll": {}
         }
       }
     }
@@ -58,11 +50,6 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "ThriftShop.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ThriftShop.UseCaces/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

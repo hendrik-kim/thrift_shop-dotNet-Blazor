@@ -23,3 +23,15 @@ C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Services\obj\De
 C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.csproj.CopyComplete
 C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.dll
 C:\Users\Hank\Source\Repos\thrift_shop-dotNet-Blazor2\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.pdb
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Services.deps.json
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Services.dll
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Services.pdb
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Data.dll
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\bin\Debug\netstandard2.0\ThriftShop.Data.pdb
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.csprojAssemblyReference.cache
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.AssemblyInfoInputs.cache
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.AssemblyInfo.cs
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.csproj.CopyComplete
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.dll
+C:\Users\Hank\source\repos\thrift_shop-dotNet-Blazor\ThriftShop.Services\obj\Debug\netstandard2.0\ThriftShop.Services.pdb

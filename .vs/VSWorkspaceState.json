@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ThriftShop"
+    "\\ThriftShop",
+    "\\ThriftShop\\Components"
   ],
-  "SelectedNode": "\\ThriftShop\\bin\\Debug\\netcoreapp3.1\\Properties\\launchSettings.json",
+  "SelectedNode": "\\ThriftShop\\ThriftShop.sln",
   "PreviewInSolutionExplorer": false
 }

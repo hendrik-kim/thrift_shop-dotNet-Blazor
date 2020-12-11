@@ -7,6 +7,6 @@ namespace ThriftShop.Services.Repository.IRepository
 {
     public interface ISearchProduct
     {
-        IEnumerable<Product> Execute(string filter);
+        IEnumerable<Product> Execute(string filter = null);
     }
 }

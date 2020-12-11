@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LOda7VADsn4GfLfqeYR0l0tSVHMIBsoAqabsyJ2aGBIVz792r9cXzGzqy300zySPPiePo35Au+Gp2MgyZkukOA==",
+  "dgSpecHash": "yB4mVdnGpz4P0w2TThfkNn82+ai1qU5pHmoV6uSe8jFy6s+TQvIu6IgrUupcu0sm/Z0q1llLuPoOOdDYHMJ8TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hank\\Desktop\\project\\thrift-shop\\ThriftShop.Models\\ThriftShop.Data.csproj",
+  "projectFilePath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor\\ThriftShop.Models\\ThriftShop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hank\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Hank\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

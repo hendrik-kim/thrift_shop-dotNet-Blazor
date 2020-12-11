@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c4fuUNIyJorEe0lA7X8DjewLbNdzKOMh5P1H30kgJReABTeMaoOu1MltXRM6fAu9D5dqKxuJvmIgctz5zopKdQ==",
+  "dgSpecHash": "gZLE8Yq3zcFKwY2Nv1eogwYgzayqU0saHzDqTs9vjljEg56i3879KUXaoeS4JgiqOYwrwOS4Otb1dbKCPYQ5WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hank\\Desktop\\project\\thrift-shop\\ThriftShop\\ThriftShop.csproj",
+  "projectFilePath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor\\ThriftShop\\ThriftShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hank\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.10\\microsoft.aspnetcore.mvc.razor.extensions.3.1.10.nupkg.sha512",
     "C:\\Users\\Hank\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.10\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.10.nupkg.sha512",

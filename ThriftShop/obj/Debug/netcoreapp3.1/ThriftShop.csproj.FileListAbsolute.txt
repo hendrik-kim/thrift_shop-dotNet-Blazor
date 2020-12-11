@@ -373,5 +373,7 @@ C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop\bin\Debug\netcoreapp3.1\Thr
 C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop\obj\Debug\netcoreapp3.1\ThriftShop.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SearchProduct.razor.g.cs
 C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop\obj\Debug\netcoreapp3.1\Razor\Pages\SearchProduct.razor.g.cs
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductComponent.razor.g.cs
+C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop\obj\Debug\netcoreapp3.1\Razor\Components\ProductComponent.razor.g.cs
 C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\SearchBar.razor.g.cs
 C:\Users\Hank\Desktop\project\thrift-shop\ThriftShop\obj\Debug\netcoreapp3.1\Razor\Components\SearchBar.razor.g.cs

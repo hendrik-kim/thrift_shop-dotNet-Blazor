@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ThriftShop.Data.Models
+﻿namespace ThriftShop.Data.Models
 {
     public class Product
     {

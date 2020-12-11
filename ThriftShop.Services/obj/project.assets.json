@@ -25,29 +25,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "ThriftShop.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/ThriftShop.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ThriftShop.Data.dll": {}
-        }
-      },
-      "ThriftShop.UseCaces/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "ThriftShop.Data": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ThriftShop.UseCaces.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ThriftShop.UseCaces.dll": {}
-        }
       }
     }
   },
@@ -195,22 +172,11 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "ThriftShop.Data/1.0.0": {
-      "type": "project",
-      "path": "../ThriftShop.Models/ThriftShop.Data.csproj",
-      "msbuildProject": "../ThriftShop.Models/ThriftShop.Data.csproj"
-    },
-    "ThriftShop.UseCaces/1.0.0": {
-      "type": "project",
-      "path": "../ThriftShop.UseCaces/ThriftShop.UseCaces.csproj",
-      "msbuildProject": "../ThriftShop.UseCaces/ThriftShop.UseCaces.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3",
-      "ThriftShop.UseCaces >= 1.0.0"
+      "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
@@ -221,11 +187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hank\\Desktop\\project\\thrift-shop\\ThriftShop.Services\\ThriftShop.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
       "projectName": "ThriftShop.Services",
-      "projectPath": "C:\\Users\\Hank\\Desktop\\project\\thrift-shop\\ThriftShop.Services\\ThriftShop.Services.csproj",
+      "projectPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\ThriftShop.Services.csproj",
       "packagesPath": "C:\\Users\\Hank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hank\\Desktop\\project\\thrift-shop\\ThriftShop.Services\\obj\\",
+      "outputPath": "C:\\Users\\Hank\\source\\repos\\thrift_shop-dotNet-Blazor2\\ThriftShop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -241,18 +207,11 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/Shawn0238/dd0271d2-5bc9-438c-9c2f-dffe3c396d21/_packaging/RMSLibraries%40Prerelease/nuget/v3/index.json": {},
-        "https://www.myget.org/F/openiddict/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
-          "projectReferences": {
-            "C:\\Users\\Hank\\Desktop\\project\\thrift-shop\\ThriftShop.UseCaces\\ThriftShop.UseCaces.csproj": {
-              "projectPath": "C:\\Users\\Hank\\Desktop\\project\\thrift-shop\\ThriftShop.UseCaces\\ThriftShop.UseCaces.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -263,7 +222,6 @@
     },
     "frameworks": {
       "netstandard2.0": {
-        "targetAlias": "netstandard2.0",
         "dependencies": {
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -282,7 +240,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
